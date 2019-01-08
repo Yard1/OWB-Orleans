@@ -1,8 +1,9 @@
 ﻿name="OWB: Orleans"
-path="mod/owb_orleans/"
+path="mod/OWB-Orleans/"
 dependencies={
 	"Old World Blues"
 }
+replace_path="history/states"
 tags={
 	"Gameplay"
 	"Alternative History"
