@@ -1,0 +1,21 @@
+
+state={
+	id=1
+	name="STATE_1"
+
+	history={
+		owner = ORL
+		add_core_of = ORL
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		18 25 27 31 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}
